@@ -39,8 +39,24 @@
   <br/>
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkyury&count_bg=%2399B881&title_bg=%23000000&icon=datadog.svg&icon_color=%23A1AC8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div>
+  <img width="80px" src= "https://user-images.githubusercontent.com/71677810/152684659-fc571928-656b-4850-bdcd-ec47793051a6.png" align="right" alt="GitHub Readme Stats" />
+</div>
+
+<br/>
+<br/>
+
+<div align=right>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkyury&count_bg=%2399B881&title_bg=%23000000&icon=datadog.svg&icon_color=%23A1AC8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
+
+
+
+
+ 
 <!--
 **kimkyury/kimkyury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
