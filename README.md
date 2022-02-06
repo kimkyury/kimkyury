@@ -50,7 +50,7 @@
 
 <div align=right>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=kimkyury&column=10&margin-w=8&margin-h=15&no-frame=true&SSS,SS,S,AAA,AA,A,B,C)]()
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kimkyury&column=10&margin-w=8&margin-h=15&no-frame=true)]()
  
   <img width="80px" src= "https://user-images.githubusercontent.com/71677810/152684659-fc571928-656b-4850-bdcd-ec47793051a6.png" align="right" alt="GitHub Readme Stats" />
  
