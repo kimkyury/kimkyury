@@ -1,23 +1,29 @@
 <p align="center">
  
-  <img width="150px" src= "https://user-images.githubusercontent.com/71677810/152684659-fc571928-656b-4850-bdcd-ec47793051a6.png" align="center" alt="GitHub Readme Stats" />
+  <img width="250px" src= "https://user-images.githubusercontent.com/71677810/152684659-fc571928-656b-4850-bdcd-ec47793051a6.png" align="center" alt="GitHub Readme Stats" />
+ <br/>
+ <br/>
+ <br/>
  
-<h1 align="center"> KGYURY GITHUB </h1>
+ ---
+ 
  </p>
 
 <br/>
 
-## KGYURY Blog-Tistory
+### KGYURY Blog-Tistory
 🛖 [Co-Gyury](https://guti-coding.tistory.com)
 
 <br/>
 <br/>
 
-<h2 align="right"> KGYURY Activity </h2>
+
+<h3 align="right"> KGYURY Activity </h3>
 
 <div align= right>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=flag-india&show_icons=true&count_private=true&show_icons=true&card_width=500)
+ 
+<!-- # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=flag-india&show_icons=true&count_private=true&show_icons=true&card_width=500)  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=flag-india&card_width=446)
 
@@ -29,7 +35,7 @@
 <br/>
 <br/>
 
-## KGYURY Lang-Skill
+### KGYURY Lang-Skill
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![SP](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)]()
