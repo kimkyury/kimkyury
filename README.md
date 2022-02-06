@@ -8,7 +8,7 @@
 <br/>
 
 ## KGYURY Blog-Tistory
-🛖 [KGYURY-tistory](https://guti-coding.tistory.com).
+🛖 [Co-Gyury](https://guti-coding.tistory.com)
 
 <br/>
 <br/>
@@ -31,11 +31,6 @@
 [![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
 [![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
 
-
-
-
-  <br/>
-  <br/>
   <br/>
   <br/>
   <br/>
@@ -43,6 +38,7 @@
   <br/>
   <br/>
 
+---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkyury&count_bg=%2399B881&title_bg=%23000000&icon=datadog.svg&icon_color=%23A1AC8D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
