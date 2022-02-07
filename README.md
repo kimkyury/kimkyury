@@ -19,16 +19,16 @@
 <h3 align="left"> KGYURY Activity </h3>
 <div align= left>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=flag-india&show_icons=true&count_private=true&show_icons=true&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=graywhite&show_icons=true&count_private=true&show_icons=true&card_width=500)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=flag-india&card_width=446)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=graywhite&card_width=446)
  
 <br/>
  
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
-[![SP](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)]()
-[![JS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
-[![JS](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)]()
+[![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)]()
+[![SP](https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white)]()
+[![JS](https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white)]()
+[![JS](https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white)]()
  
 </div>
 
