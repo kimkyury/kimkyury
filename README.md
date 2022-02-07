@@ -17,7 +17,7 @@
 <br/>
 
 <h3 align="left"> KGYURY Activity </h3>
-<div align= right>
+<div align= left>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=flag-india&show_icons=true&count_private=true&show_icons=true&card_width=500)
 
