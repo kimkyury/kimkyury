@@ -1,8 +1,6 @@
 <p align="center">
  
-  <img width="250px" src= "https://user-images.githubusercontent.com/71677810/152684659-fc571928-656b-4850-bdcd-ec47793051a6.png" align="center" alt="GitHub Readme Stats" />
- <br/>
- <br/>
+  <img width="1000px" src= "https://user-images.githubusercontent.com/71677810/153324258-5bb5f54b-410a-47ae-8d2d-bb1011d8a42b.png" align="center" alt="GitHub Readme Stats" />
  <br/>
  
  ---
