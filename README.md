@@ -38,8 +38,7 @@
 ---
 
 <div align=right>
-  <img width="80px" src= "https://user-images.githubusercontent.com/71677810/153324254-2dd928da-ca12-4387-8dd3-bb5dc1610537.png" align="right" alt="GitHub Readme Stats" />
- <br/> <br/>
+
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkyury&count_bg=%2399B881&title_bg=%23000000&icon=datadog.svg&icon_color=%23A1AC8D&title=hits&edge_flat=false)]()
  
