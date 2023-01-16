@@ -24,6 +24,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=graywhite&card_width=446)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=graywhite&)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ 
 <br/>
  
 [![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)]()
