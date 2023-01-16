@@ -17,9 +17,10 @@
 <h3 align="left"> KGYURY Activity </h3>
 <div align= left>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=graywhite&show_icons=true&count_private=true&show_icons=true&card_width=500)
+ <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&card_width=550&theme=graywhite&show_icons=true&count_private=true&show_icons=true&card_width=500) -->
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&theme=graywhite&show_icons=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=graywhite&card_width=446)
  
