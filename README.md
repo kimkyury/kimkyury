@@ -23,7 +23,7 @@
 
  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=graywhite&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact&theme=graywhite&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
  
 <br/>
