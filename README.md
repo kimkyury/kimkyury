@@ -1,7 +1,6 @@
 <p align="center">
  
   <img width="1000px" src= "https://user-images.githubusercontent.com/71677810/153324258-5bb5f54b-410a-47ae-8d2d-bb1011d8a42b.png" align="center" alt="GitHub Readme Stats" />
- <br/>
  
  ---
  
@@ -9,27 +8,34 @@
 
 <br/>
 
-### KGYURY Blog-Tistory
-🛖 [Co-Gyury](https://guti-coding.tistory.com)
+### **🍊KGYURY Blog-Tistory**
+
+🏡 [guti-coding](https://guti-coding.tistory.com)
+
 
 <br/>
+<br/>
 
-<h3 align="left"> KGYURY Activity </h3>
-<div align= left>
+### **🧠BAECKJOON ONLINE JUDGE**
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeae2323)](https://solved.ac/profile/aeae2323)
+
+ <br/>
+ <br/>
  
-
+### **🌱GITHUB ACTIBITY**
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&show_icons=true&theme=graywhite&card_width=500)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 <br/>
- 
+
+ <!--
 [![JS](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)]()
 [![SP](https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white)]()
 [![JS](https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white)]()
 [![JS](https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white)]()
+ -->
  
 </div>
 
