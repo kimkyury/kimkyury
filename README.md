@@ -25,7 +25,7 @@
  
 ### **🌱GITHUB ACTIBITY**
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&show_icons=true&theme=graywhite&card_width=500)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&show_icons=true&theme=graywhite&card_width=500&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact)
  
 <br/>
