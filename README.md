@@ -16,6 +16,16 @@
 <br/>
 <br/>
 
+### **💻 Major Project**
+
+
+🔎 [가족소통 증진을 위한 Smart Mirror - Mirror Me](https://github.com/kimkyury/MirrorMe-SmartMirror-SpringBoot)
+
+🔎 [신축건물 하자 사전탐색을 위한 IoT연동 웹 플랫폼 - 이게MO징](https://github.com/kimkyury/WhitsIsThis-Service-SpringBoot)
+
+<br/>
+<br/>
+
 ### **🧠BAECKJOON ONLINE JUDGE**
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeae2323)](https://solved.ac/profile/aeae2323)
