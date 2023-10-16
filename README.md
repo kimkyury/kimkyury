@@ -8,7 +8,7 @@
 
 ## **🍊 KGYURY Portfolio**
 
-🏡 [Portfolio]([https://guti-coding.tistory.com](https://kgyury-portfolio.vercel.app/)
+🏡 [Portfolio](https://guti-coding.tistory.com](https://kgyury-portfolio.vercel.app/)
 
 <br/>
 <br/>
