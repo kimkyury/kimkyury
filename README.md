@@ -6,17 +6,14 @@
  
  </p>
 
-<br/>
+## **🍊 KGYURY Portfolio**
 
-### **🍊KGYURY Blog-Tistory**
-
-🏡 [guti-coding](https://guti-coding.tistory.com)
-
+🏡 [Portfolio]([https://guti-coding.tistory.com](https://kgyury-portfolio.vercel.app/))
 
 <br/>
 <br/>
 
-### **💻 Major Project**
+## **💻 Major Project**
 
 
 🔎 [가족소통 증진을 위한 Smart Mirror - Mirror Me](https://github.com/kimkyury/MirrorMe-SmartMirror-SpringBoot)
@@ -26,14 +23,21 @@
 <br/>
 <br/>
 
-### **🧠BAECKJOON ONLINE JUDGE**
+## **🖋 KGYURY Blog-Tistory**
+
+🏡 [guti-coding](https://guti-coding.tistory.com)
+
+
+<br/>
+
+## **🧠BAECKJOON ONLINE JUDGE**
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeae2323)](https://solved.ac/profile/aeae2323)
 
  <br/>
  <br/>
  
-### **🌱GITHUB ACTIBITY**
+## **🌱GITHUB ACTIBITY**
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkyury&show_icons=true&theme=graywhite&card_width=500&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkyury&layout=compact)
