@@ -15,10 +15,13 @@
 
 ## **💻 Major Project**
 
+🔎 [타입랩스 기반 습관 형성을 위한 SNS - TIMING](https://github.com/kimkyury/Timing-SNS-SpringBoot)
+
+🔎 [신축건물 하자 사전탐색을 위한 IoT 연동 웹 플랫폼 - 이게MO징](https://github.com/kimkyury/WhitsIsThis-Service-SpringBoot)
 
 🔎 [가족소통 증진을 위한 Smart Mirror - Mirror Me](https://github.com/kimkyury/MirrorMe-SmartMirror-SpringBoot)
 
-🔎 [신축건물 하자 사전탐색을 위한 IoT연동 웹 플랫폼 - 이게MO징](https://github.com/kimkyury/WhitsIsThis-Service-SpringBoot)
+
 
 <br/>
 <br/>
