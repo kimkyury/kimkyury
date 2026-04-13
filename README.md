@@ -51,4 +51,4 @@
 
 ## 🧠 Playing
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeae2323)](https://solved.ac/profile/aeae2323)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aeae2323)](https://solved.ac/aeae2323/)
